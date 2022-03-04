@@ -1,0 +1,12 @@
+table,th,td{
+    border-collapse: collapse;
+    width: 300px;
+}
+th,td{
+padding: 8px;
+text-align: left;
+border-bottom: 2px solid #ddd;
+}
+tr:hover{background-color: coral;
+
+}
